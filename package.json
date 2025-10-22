@@ -1,0 +1,12 @@
+{
+  "name": "hng13-stage1-app",
+  "version": "1.0.0",
+  "description": "HNG13 Stage 1 DevOps Application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
